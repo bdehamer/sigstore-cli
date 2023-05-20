@@ -20,7 +20,7 @@
     "@oclif/core": "^2",
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^2.4.7",
-    "sigstore": "^1.4.0"
+    "sigstore": "^1.5.2"
   },
   "devDependencies": {
     "@oclif/test": "^2.3.17",
